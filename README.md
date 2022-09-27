@@ -1,5 +1,13 @@
 # Membuat Microservice Sederhana
 
+# About
+Menngunakan Maven Spring
+<br>Menggunakan Spriring Boot versi 2.6.11
+<br>Menngunakan Apache Netbeans IDE 13
+<br>Menggunakan Bahasa Java
+<br>Menggunakan JDK 17
+<br>Menggunakan Microsoft Edge
+
 ## Donwload Project Maven
 **Langkah 1 :** Buat Project Maven menggunakan spring Inirializr https://start.spring.io/
 <br>**Langkah 2 :** pilih Maven project pada pilihan project, pilih bahasa java
